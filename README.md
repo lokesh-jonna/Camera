@@ -1,24 +1,28 @@
-<h1>Browser Camera App</h1>
+# Browser Camera App
 
-<p>Simple Camera App written in HTML, CSS, and JavaScript which can be used to record and capture images.</p>
+![Browser Camera App](https://example.com/screenshot.png)
 
-<h3>Used Technologies</h3>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-</ul>
+Simple Camera App written in HTML, CSS, and JavaScript which can be used to record and capture images.
 
-#### Steps to Use:
+## Used Technologies
+
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
-- Download or clone the repository
+### Steps to Use:
 
-```
-git clone https://github.com/lokesh-jonna/Camera.git
-```
+1. **Download or clone the repository:**
+    ```
+    git clone https://github.com/lokesh-jonna/Camera.git
+    ```
 
-- Go to the 'Browser Camera' directory
-- Run the index.html file
-- Start using the camera!!
+2. **Go to the 'Browser Camera' directory.**
+
+3. **Run the index.html file.**
+
+4. **Start using the camera!!**
+
+Happy capturing!
