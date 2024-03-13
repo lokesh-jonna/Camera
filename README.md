@@ -1,6 +1,6 @@
 # Browser Camera App
 
-![Browser Camera App](https://example.com/screenshot.png)
+![Browser Camera App](https://github.com/lokesh-jonna/images/blob/main/camera.png)
 
 Simple Camera App written in HTML, CSS, and JavaScript which can be used to record and capture images.
 
