@@ -4,7 +4,6 @@ let constraints = {
     video: true,
     audio: true
 };
-
 let mediaRecorder;
 let buffer = [];
 
